@@ -1,0 +1,11 @@
+.Navbar {
+  background: #0bdf6a;
+  height: 100vh;
+  padding: 20px 10px;
+}
+.navbar-btn:hover {
+  color: #a9fdac;
+}
+.navbar-btn-active {
+  color: #a9fdac;
+}
